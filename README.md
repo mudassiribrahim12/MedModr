@@ -1,5 +1,5 @@
 # MedModr
-# SEM Analysis Tool - Shiny Application
+# An Open-Source Mediation & Moderation Software
 
 A statistical application written in R using the Shiny framework for Structural Equation Modeling (SEM) analysis. This tool provides an intuitive interface for conducting mediation and moderation analyses, visualizing path diagrams, and generating professional reports.
 
@@ -44,7 +44,9 @@ install.packages(c("shiny", "lavaan", "semPlot", "ggplot2", "readr", "readxl",
 
 # Step 3: Download the Application from the GitHub/Archive repository
 
-Link: https://github.com/mudassiribrahim12/MedModr/blob/main/app.R
+GitHub Link: https://github.com/mudassiribrahim12/MedModr/blob/main/app.R
+
+Archive Link: 
 
 
 # Step 4: Open in app.R file
