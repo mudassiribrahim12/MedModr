@@ -46,7 +46,7 @@ install.packages(c("shiny", "lavaan", "semPlot", "ggplot2", "readr", "readxl",
 
 GitHub Link: https://github.com/mudassiribrahim12/MedModr/blob/main/app.R
 
-Archive Link: https://archive.org/details/app_20260323
+Archive Link: https://archive.org/download/app_20260323/app.R
 
 
 # Step 4: Open in app.R file
